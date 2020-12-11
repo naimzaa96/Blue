@@ -47,3 +47,4 @@ This is enough to solve the expression.
 
 
 ---
+## In collaboration with my dear colleague Josh Spradlin
